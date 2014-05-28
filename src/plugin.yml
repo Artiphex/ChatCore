@@ -1,0 +1,5 @@
+name: ChatCore
+version: 0.1
+author: iron42
+
+main: de.iron42.chatcore.ChatCore
